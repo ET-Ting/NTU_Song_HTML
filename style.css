@@ -1,0 +1,21 @@
+body{
+    background: rgba(212, 255, 0, 0.175);
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(172, 138, 94);
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+p{
+    text-align: center;
+    font-weight:bold;
+    color: teal;
+}
+
+a{
+    text-align: center;
+    color: rgb(115, 79, 16);  
+}
